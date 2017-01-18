@@ -1,0 +1,19 @@
+h1 {
+  color: lightblue;
+  text-align: center;
+  font-weight: bolder;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: tan;
+}
